@@ -14,7 +14,9 @@ Input validation for incorrect or occupied cells
 
 Emoji-based visual interface for a fun user experience 🎉
 
-🛠️ How to Run
+🛠️ How to Run:
+
 python game.py
+
 Just open your terminal, run the file, and follow this prompt.
 
